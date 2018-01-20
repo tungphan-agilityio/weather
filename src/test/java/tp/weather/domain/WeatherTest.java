@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class WeatherTest {
+public class WeatherTest {
 
 	@Test
 	public void createWeather() {
