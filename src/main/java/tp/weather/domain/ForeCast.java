@@ -20,5 +20,4 @@ public class ForeCast {
 	@GeneratedValue
 	@Column(name = "id")
 	private Long id;
-
 }
